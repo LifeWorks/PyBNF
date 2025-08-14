@@ -25,5 +25,6 @@ tests/sim_1_rerun1/
 
 # Local scratch
 environment*.yml
+full-environment.yml
 pip-installed-packages.txt
 readme_dev.txt
