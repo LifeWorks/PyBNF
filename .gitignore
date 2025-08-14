@@ -6,4 +6,24 @@ build/**
 **/__pycache__
 **/*.pyc
 examples/output/**
-docs/_build/**
+docs/_build/**# macOS cruft
+.DS_Store
+
+# Python build/cache
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+
+# Coverage & test outputs
+.coverage
+tests/.coverage
+noseoutput2/
+tests/noseoutput2/
+tests/sim_1_rerun1/
+
+# Local scratch
+environment*.yml
+pip-installed-packages.txt
+readme_dev.txt

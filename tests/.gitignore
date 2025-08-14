@@ -1,7 +1,0 @@
-
-# local artifacts
-*.DS_Store
-.coverage
-noseoutput2/
-sim_1_rerun1/
-
