@@ -1,4 +1,4 @@
-WT.MEK_pRDS_WT at time=300>WT.MEK_pRDS_WT at time=3600 weight 0.001
+WT.MEK_pRDS_WT at time=300>WT.MEK_pRDS_WT at time=1800 weight 0.001
 WT.MEK_pRDS_WT at time=1800>WT.MEK_pRDS_WT at time=3600 weight 0.001
 WT.MEK_pRDS_WT at time=300>WT.MEK_pRDS_WT at time=3600 weight 0.001
 
@@ -36,4 +36,5 @@ WT.pERK1_2_wt at time=3600<T292A.pERK1_2_wt at time=3600 weight 0.001
 
 WT.pERK1_2_wt at time=300>T292D.pERK1_2_wt at time=300 weight 0.001
 WT.pERK1_2_wt at time=1800>T292D.pERK1_2_wt at time=1800 weight 0.001
+
 WT.pERK1_2_wt at time=3600>T292D.pERK1_2_wt at time=3600 weight 0.001
